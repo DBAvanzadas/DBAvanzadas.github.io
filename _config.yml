@@ -1,1 +1,8 @@
 theme: jekyll-theme-minimal
+authors:
+  angel:
+    name: Angel David Corredor
+    email: adcorredorm@unal.edu.co
+  sebastian:
+    name: Juan Sebastian Peña
+    email: jspenaq@unal.edu.co

@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Data Quality Reports
 ---
 
 ## Tablas
