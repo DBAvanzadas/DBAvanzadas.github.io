@@ -16,6 +16,9 @@ layout: default
 - [Dim Estudiantes][de]
 - [Dim Semestres][ds]
 
+## Hecho
+- [Fact Calificaciones][fc]
+
 [puu]:{% post_url 2020-09-29-personas_unal_uapa %}
 [oae]:{% post_url 2020-09-29-oferta_asignatura_espacio %}
 [oag]:{% post_url 2020-09-29-oferta_asignatura_grupo %}
@@ -26,3 +29,4 @@ layout: default
 [dd]:{% post_url 2020-09-29-DimDocentes %}
 [de]:{% post_url 2020-09-29-DimEstudiantes %}
 [ds]:{% post_url 2020-09-29-DimSemestres %}
+[fc]:{% post_url 2020-09-29-FactCalificaciones %}
